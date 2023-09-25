@@ -1,5 +1,5 @@
 <template>
-  <div class="app" ref="app-container">
+  <div class="app py-12" ref="app-container">
     <div class="text-center">
       <TypeWriter />
     </div>
