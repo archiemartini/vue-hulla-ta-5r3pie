@@ -16,7 +16,7 @@
 ### Things to plan for
 - Accessibility: if pagination required, make pagination target size 48px*48px (largest of industry standards, Google's specifically)
 
-https://vue-hulla-ta-5r3pie.stackblitz.io
+(View site)[https://vue-hulla-ta-5r3pie.stackblitz.io]
 
 Sorry I didn't show process in commits. First time using Stackblitz
 
