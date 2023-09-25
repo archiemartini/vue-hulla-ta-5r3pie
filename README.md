@@ -1,6 +1,6 @@
 ### Things I did
 - Accessibility: I ensured when rendering the list of items, they were rendered in an anchor tag to allow for Sighted Keyboard Users to navigate the PLP comfortably.
-- Responsiveness: Select and Product Grid are both responsive to sm/md/lg screen sizes.
+- Responsiveness: Select Flex and Product Grid are both responsive to sm/md/lg screen sizes.
 - Animation: I thought it'd be fun to do that typewriter animation, I prompted ChatGPT and it spat that at me, asked for a few more customizations and BOOM. Arguably the easiest part of the tech test. AI will rule the world.
 - Animation: added little scale animations for hover: and focus:, I think it has a nice effect
 - Design: minimal, when in doubt, minimal, thanks for the clean font. I had a look at images for a possible navbar, but all came out lame
