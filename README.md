@@ -4,7 +4,7 @@
 - Animation: I thought it'd be fun to do that typewriter animation, I prompted ChatGPT and it spat that at me, asked for a few more customizations and BOOM. Arguably the easiest part of the tech test. AI will rule the world.
 - Animation: added little scale animations for hover: and focus:, I think it has a nice effect
 - Design: minimal, when in doubt, minimal, thanks for the clean font. I had a look at images for a possible navbar, but all came out lame
-
+- Dependencies: added Tailwind via CDN in index.html because couldn't for the life of me figure out StackBlitz dependencies/terminal
 
 ### Things I'd like to do
 - Accessibility: given more extensive data, I would give every element a descriptive alt
